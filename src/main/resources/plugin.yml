@@ -1,0 +1,4 @@
+name: beaconListener
+version: '${project.version}'
+main: org.leafd.beaconlistener.BeaconListener
+api-version: '1.19'
