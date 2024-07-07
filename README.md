@@ -23,7 +23,7 @@ Respiration Effect: Players within the oxygen zone receive the Respiration effec
 ## Discord
 
 Join our
-[discord](discord.gg/marcusk) !
+[discord](https://discord.gg/marcusk) !
 
 
 <!-- markdownlint-restore -->
